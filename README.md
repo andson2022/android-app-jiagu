@@ -35,7 +35,7 @@ It provides a comprehensive set of security features including anti-debugging, a
 
 ### 🚀 Quick Start
 
-1. Upload your APK on our website: [https://yourwebsite.com](https://yourwebsite.com)
+1. Upload your APK on our website: [https://jiagu.me](https://jiagu.me)
 2. Select features you want to apply
 3. Download the hardened APK and install it
 
@@ -58,9 +58,8 @@ It provides a comprehensive set of security features including anti-debugging, a
 
 ### 📩 Contact & Support
 
-- Telegram: [@YourToolName](https://t.me/YourToolName)
-- Email: support@yourwebsite.com
-- Website: [https://yourwebsite.com](https://yourwebsite.com)
+- Telegram: [@bytesum](https://t.me/bytesum)
+- Website: [https://jiagu.me](https://jiagu.me)
 
 ---
 
@@ -97,7 +96,7 @@ Android App Hardener 是一款专业的 APK 安全加固工具，帮助开发者
 
 ### 🚀 快速开始
 
-1. 打开官网上传你的APK：[https://yourwebsite.com](https://yourwebsite.com)
+1. 打开官网上传你的APK：[https://jiagu.me](https://jiagu.me)
 2. 选择你需要的加固功能
 3. 下载处理后APK进行测试
 
@@ -114,9 +113,8 @@ Android App Hardener 是一款专业的 APK 安全加固工具，帮助开发者
 
 ### 📩 联系方式
 
-- Telegram：[@YourToolName](https://t.me/YourToolName)
-- 邮箱：support@yourwebsite.com
-- 官网：[https://yourwebsite.com](https://yourwebsite.com)
+- Telegram：[@bytesum](https://t.me/bytesum)
+- 官网：[https://jiagu.me](https://jiagu.me)
 
 ---
 
